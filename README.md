@@ -29,8 +29,6 @@ Paste a movie review into the text box, and the model will classify the sentimen
 
 ## 🖥️ How to Run
 
-### 1. Install dependencies
-
 ```bash
 pip install streamlit tensorflow
 
